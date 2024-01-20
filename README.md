@@ -19,18 +19,10 @@
 
 <h1>Génération des événements par Supplier (Producer Poller) (Chaque seconde par défaut)</h1>
 
+![image](https://github.com/Musta1Pha/spring-cloud-streams-functions-kafka/assets/91842692/4c8a0081-c88d-4fae-adae-98000290a643)
 
-
+=======================
 
 
 ![image](https://github.com/Musta1Pha/spring-cloud-streams-functions-kafka/assets/91842692/a1690cb1-2556-411a-a145-48b3ce802e60)
-![image](https://github.com/Musta1Pha/spring-cloud-streams-functions-kafka/assets/91842692/4c8a0081-c88d-4fae-adae-98000290a643)
-
-
-
-
-
-
-
-
 ![image](https://github.com/Musta1Pha/spring-cloud-streams-functions-kafka/assets/91842692/40363068-3bc4-4ae0-ac2a-40b1448f5d8c)
